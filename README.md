@@ -2,6 +2,6 @@
 
 Meu nome é Julia Seleguim
 
-*Estou estudando na Alura;
+-Estou estudando na Alura;
 
 -Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
